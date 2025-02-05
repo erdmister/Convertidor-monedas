@@ -86,3 +86,9 @@ Ejemplo de modificación en getCurrencyCode:
 
     case "Real Brasileño (BRL)":
         return "BRL";
+
+## Imagenes
+![img_1](https://github.com/user-attachments/assets/067f25ef-29c8-4b7d-8df3-c6c4d6de40b2)
+![img_2](https://github.com/user-attachments/assets/a1d16fa2-9414-44ed-9a0a-6cfc1ba16daa)
+
+        
